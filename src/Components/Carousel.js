@@ -30,6 +30,8 @@ const Carousel = () => {
             }}
           >
             <FiArrowRightCircle style={{ fontSize: 30 }} />
+            <div>vvvvvvvvvvvv</div>
+            <p>vvvvvvvvvvvfffffff</p>
           </div>
         </div>
       </div>
